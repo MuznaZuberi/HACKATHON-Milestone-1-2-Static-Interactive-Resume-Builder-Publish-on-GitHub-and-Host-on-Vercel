@@ -1,0 +1,126 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.container{
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 70%;
+	height: 670px;
+	border: 1px solid #D8D8DD; 
+	border-radius:10px;
+}
+
+
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+    padding: 30px;
+}
+
+
+.columns{
+	columns: 2;
+	display: flex;
+}
+
+h1{
+   	color: #2F3866;
+
+}
+
+.col_01{
+	border: 1px solid #D9D9DC;
+	border-radius:3px;
+	width:50%;
+	height: 670px;
+
+}
+
+
+.col_01 h1{
+	padding-left: 50px;
+	font-family: Arial, sans-serif;
+	font-size:20px;
+	color:#2F3866;
+
+}
+
+
+.col_01 h2{
+	padding-left: 50px;
+	font-size: 20px;
+	padding-top:20px;
+    font-family: Arial, sans-serif;
+    color:#2F3866;
+
+
+}
+
+
+.col_01 h3{
+	padding-left: 50px;
+	font-size: 20px;
+	padding-top:20px;
+	font-family: Arial, sans-serif;
+    color:#2F3866;
+
+
+}
+
+.col_01 p{
+	padding: 0px 3px;
+}
+
+
+
+.col_01 p{
+	padding-left:50px;
+
+
+}
+
+
+
+.col_02 {
+	padding-top: 30px;
+	padding-left: 30px;
+
+}
+
+
+.col_02 h1{
+	font-size:40px;
+	font-family: Arial, sans-serif;
+}
+.col_02 h2{
+	padding-top:40px;
+	font-size:20px;
+	color: #2F3866;
+	font-family: Arial, sans-serif;
+
+}
+
+.col_02 h4{
+	font: bold;
+}
+
+
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #182775;
+    color: white;
+    border:inherit;
+    border-radius: 10px;
+    margin-left:10px;
+}
+
+button:hover {
+    background-color: #7E7F81;
+}
+
