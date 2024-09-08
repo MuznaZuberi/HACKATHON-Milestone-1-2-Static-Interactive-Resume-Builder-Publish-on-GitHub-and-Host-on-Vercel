@@ -19,4 +19,7 @@ Vercel: Hosting the live version for easy access and demonstration.
 ### Developed a static resume layout using HTML and CSS with a clean and professional design.
 
 ## 🌟 Milestone 2: Interactive Functionality
-### Introduced interactive features using TypeScript, allowing users to dynamically show or hide different sections of the resume.
+### Introduced interactive features using TypeScript, allowing users to dynamically show or hide different resume sections.
+
+## 📄 Live Demo:
+(https://static-resume-ecru.vercel.app/)
